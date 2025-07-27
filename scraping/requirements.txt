@@ -1,0 +1,6 @@
+requests==2.31.0
+beautifulsoup4==4.12.2
+pandas==2.1.4
+google-cloud-bigquery==3.20.1
+pyarrow==14.0.2
+google-cloud-storage==2.9.0
